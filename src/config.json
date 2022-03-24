@@ -12,6 +12,25 @@
       "text": "The Treebank Template is maintained by the Perseids Project. See the [getting started instructions](/instructions/getting-started/). Or visit [our homepage](https://www.perseids.org) to learn more."
     },
     {
+      "title": "Attic Prose",
+      "publications": [
+        {
+          "path": "crito",
+          "author": "Plato",
+          "work": "Crito",
+          "editors": "Travis Kahl",
+          "sections": [
+            {
+              "locus": "1-276",
+              "path": "plato_crito_2022-3-24",
+              "xml": "plato_crito_2022-3-24.xml",
+              "chunks": { "start": 1, "end": 276" }
+            }
+          ]
+        }
+      ]
+    }
+    {
       "title": "Collection 1",
       "publications": [
         {
