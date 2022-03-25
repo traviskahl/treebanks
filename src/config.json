@@ -1,6 +1,6 @@
 {
   "title": "Daphne Treebank Collection",
-  "subtitle": "A collection of Ancient Greek treebanks, maintained by Travis Kahl.",
+  "subtitle": "A collection of Ancient Greek treebanks, maintained by Travis Kahl. This website is based on the [Treebank Template](https://github.com/perseids-publications/treebank-template) maintained by the [Perseids Project.](https://www.perseids.org)",
   "doi": "",
   "copyright": "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
   "report": "",
