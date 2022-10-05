@@ -26,21 +26,7 @@
 		},
 		{
 			"title": "Homer",
-			"publications": [{
-				"path": "homer",
-				"author": "Homer",
-				"work": "Odyssey 11",
-				"editors": "Travis Kahl",
-				"sections": [{
-					"locus": "1-326",
-					"path": "homer_odyssey11_2022_5_10",
-					"xml": "homer_odyssey11_2022_5_10.xml",
-					"chunks": {
-						"start": 1,
-						"end": 326
-					}
-				}]
-			}]
+			"text": "Odyssey 11 coming soon."
 		}
 	]
 }
